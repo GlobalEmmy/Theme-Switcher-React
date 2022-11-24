@@ -1,0 +1,85 @@
+ /* switch css */
+ .App.theme-white {
+     background: white;
+
+     .content-container {
+         background: #497174 ;
+     }
+
+     h3,
+     h5,
+     p {
+         color: #EB6440;
+     }
+
+ }
+ .App.theme-blue {
+     background: blue;
+
+     .content-container {
+         background: #CFF5E7;
+     }
+
+     h3,
+     h5,
+     p {
+         color: #0D4C92;
+     }
+
+ }
+ .App.theme-orange {
+     background: orange;
+
+     .content-container {
+         background: #F49D1A;
+     }
+
+     h3,
+     h5,
+     p {
+         color: #B01E68;
+     }
+
+ }
+ .App.theme-purple {
+     background: purple;
+
+     .content-container {
+         background: #B01E68;
+     }
+
+     h3,
+     h5,
+     p {
+         color: #EF9A53;
+     }
+
+ }
+ .App.theme-green {
+     background: green;
+
+     .content-container {
+         background: #E6E5A3;
+     }
+
+     h3,
+     h5,
+     p {
+         color: #E97777;
+     }
+
+ }
+ .App.theme-black {
+     background: black;
+
+     .content-container {
+         background: white;
+     }
+
+     h3,
+     h5,
+     p {
+         color: gold;
+     }
+
+ }
